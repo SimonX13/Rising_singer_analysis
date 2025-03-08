@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project involves a detailed analysis of music streaming data from **Audiomack** to uncover trends and key factors influencing song popularity. The dataset spans **24** months with **710,000 entries** and includes various engagement metrics such as downloads, likes, and playlist additions.
+- A detailed analysis of music streaming data from **Audiomack** to uncover trends and key factors influencing song popularity.
+- Present 10 hidden gem songs and rising stars.
+- The dataset spans **24** months with **710,000 entries** containing various engagement metrics such as downloads, likes, and playlist additions.
 
 ## Key Findings
 
